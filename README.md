@@ -1,3 +1,12 @@
+---
+cover: .gitbook/assets/cover.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+---
+
 # Introduction
 
 **Dynamic Hooks is the programmable market layer on Robinhood Chain.**
