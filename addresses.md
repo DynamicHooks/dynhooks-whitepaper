@@ -4,7 +4,7 @@ Published here when they exist. Until an address appears on this page, it is not
 
 | What | Address |
 | --- | --- |
-| $DHOOKS | — |
+| $DHOOKS | `0x5b8058dbeb89d2fef11f2e2faa807c8e5f388b4a` |
 | Treasury | — |
 | MarketFactory | — |
 | DynamicHook | — |
